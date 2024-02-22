@@ -15,7 +15,7 @@ A solid foundation for writing business tests as traditional Keyword Driven or B
 Once an initial Selenium test automation framework has been created the development
 of the solution can continue in the source code without any dependentcies to the Framework Builder.
 
-The Qspikes Framework Builder will boost the establishment of a Selenium test automation framework - Fast & Easily...
+The Framework Builder will boost the establishment of a Selenium test automation framework - Fast & Easily...
 <br />
 
 <img src="frameworkbuilder.png"
