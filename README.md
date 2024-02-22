@@ -18,7 +18,7 @@ of the solution can continue in the source code without any dependentcies to the
 The Framework Builder will boost the establishment of a Selenium test automation framework - Fast & Easily...
 <br />
 
-<img src="frameworkbuilder.png"
+<img src="FrameworkBuilder.png"
      alt="Framework Builder Application"
      style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
 
